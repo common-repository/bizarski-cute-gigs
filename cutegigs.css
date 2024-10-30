@@ -1,0 +1,51 @@
+.cutegigs_container { 
+	padding: 7px;
+	clear: both; 
+	float: left; 
+	text-align: right;
+	margin-top: 10px;
+}
+
+.cutegigs_container p, 
+.cutegigs_container h3, 
+.cutegigs_container h4 { 
+	display: inline;
+}
+
+.cutegigs_container img { 
+	float: left; 
+}
+
+h3.cutegigs_date { 
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.cutegigs_details { 
+	font-size: 16px;
+}
+
+.cutegigs_otherbands { 
+	padding-top: 10px;
+	font-size: 12px;
+}
+
+.cutegigs_otherbands_names { 
+	font-weight: bold;
+}
+
+.cutegigs_buttons { 
+	clear: both;
+	float: left;
+}
+
+a.cutegigs_button { 
+	display:-moz-inline-stack;
+	display: inline-block;
+	zoom:1;
+	*display:inline;
+	margin: 5px 10px 0 0;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 4px;
+}

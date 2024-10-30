@@ -1,0 +1,1 @@
+<?php if (!function_exists('add_action')){	require_once("../../../wp-config.php");}?>jQuery(document).ready(function () {		if(jQuery(".cutegigs-fancybox").length > 0) { 		jQuery(".cutegigs-fancybox").fancybox({ 			overlayColor 	: '#000'		});	}	});
